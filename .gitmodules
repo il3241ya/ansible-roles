@@ -1,0 +1,9 @@
+[submodule "roles/podman-ansible-role"]
+	path = roles/podman-ansible-role
+	url = git@github.com:il3241ya/podman-ansible-role.git
+[submodule "roles/rootless-user-ansible-role"]
+	path = roles/rootless-user-ansible-role
+	url = git@github.com:il3241ya/rootless-user-ansible-role.git
+[submodule "roles/k8s-ufw"]
+	path = roles/k8s-ufw
+	url = git@github.com:il3241ya/k8s-ufw.git
